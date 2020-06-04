@@ -1,0 +1,422 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BookmarkManager">
+    <bookmark url="file://$PROJECT_DIR$/VideoGame_AllStars.py" description="--Window Information / Colors / Keys--          -" line="39" />
+    <bookmark url="file://$PROJECT_DIR$/VideoGame_AllStars.py" description="--Imports--          -" line="3" />
+    <bookmark url="file://$PROJECT_DIR$/VideoGame_AllStars.py" description="--Images--          -" line="54" />
+    <bookmark url="file://$PROJECT_DIR$/VideoGame_AllStars.py" description="--Text / Fonts--          -" line="105" />
+    <bookmark url="file://$PROJECT_DIR$/VideoGame_AllStars.py" description="__name__=='__main__':                                -" line="2739" />
+    <bookmark url="file://$PROJECT_DIR$/VideoGame_AllStars.py" description="-                                             -" line="2639" />
+    <bookmark url="file://$PROJECT_DIR$/VideoGame_AllStars.py" description="--Player Class--          -" line="1896" />
+    <bookmark url="file://$PROJECT_DIR$/VideoGame_AllStars.py" description="--Enemy Class--          -" line="2450" />
+    <bookmark url="file://$PROJECT_DIR$/VideoGame_AllStars.py" description="--BattleScreen Class--          -" line="1370" />
+    <bookmark url="file://$PROJECT_DIR$/VideoGame_AllStars.py" description="--CharacterSelect Class--          -" line="1124" />
+    <bookmark url="file://$PROJECT_DIR$/VideoGame_AllStars.py" description="--StartScreen Class--          -" line="249" />
+    <bookmark url="file://$PROJECT_DIR$/VideoGame_AllStars.py" />
+    <bookmark url="file://$PROJECT_DIR$/VideoGame_AllStars.py" description="-                                             -" line="152" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="01891f97-e48f-4cf5-a03e-58b936fe9a0d" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/VideoGame_AllStars.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExampleCode.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VideoGameAllStarsRecoded.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/audio/Bowzer music.MP3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/audio/magnito.mid" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/audio/robotnik.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/audio/shreder.mid" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/BowserBlur.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/Chocobo.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/Chocobo.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/ChocoboResize.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/FriezaBlur.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/GanondorfBlur.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/MagnetoBlur.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/SephirothBlur.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/dr. robotnik.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/pikachu_bg.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/platformTransparent.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/platformTransparentFlip.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/titlescreenbg.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/titlescreenbg.png" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="VideoGame_AllStars" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/VideoGame_AllStars.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="426">
+              <caret line="1211" column="92" lean-forward="true" selection-start-line="1211" selection-start-column="92" selection-end-line="1211" selection-end-column="92" />
+              <folding>
+                <element signature="e#256#288#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python37/Lib/random.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="322">
+              <caret line="221" selection-start-line="221" selection-end-line="221" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>lose</find>
+      <find>player</find>
+      <find>attack_circle</find>
+      <find>calc</find>
+      <find>chucknorris</find>
+      <find>lose_hp</find>
+      <find>lose_hp_from_special</find>
+      <find>norris</find>
+      <find>missed</find>
+      <find>calculate_hea</find>
+      <find>self.energy =</find>
+      <find>current_combo</find>
+      <find>gained</find>
+      <find>heal_power</find>
+      <find>pikachu</find>
+      <find>attack_speed</find>
+      <find>stat</find>
+      <find>stat_points</find>
+      <find>display_</find>
+      <find>self.defense</find>
+      <find>calc_dmg</find>
+      <find>calc_</find>
+      <find>special</find>
+      <find>special_attack_cost</find>
+      <find>calculate_heal</find>
+      <find>45</find>
+      <find>18</find>
+      <find>17</find>
+      <find>17,</find>
+      <find>well f</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$USER_HOME$/OneDrive/Desktop/MTL-master/TestScripts/dut_info.py" />
+        <option value="$PROJECT_DIR$/constants.py" />
+        <option value="$PROJECT_DIR$/VideoGameAllStarsRecoded.py" />
+        <option value="$PROJECT_DIR$/ExampleCode.py" />
+        <option value="$PROJECT_DIR$/buttontest" />
+        <option value="$PROJECT_DIR$/test.py" />
+        <option value="$PROJECT_DIR$/auto_attack.py" />
+        <option value="$PROJECT_DIR$/VideoGame_AllStars.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="67" />
+    <option name="y" value="73" />
+    <option name="width" value="1720" />
+    <option name="height" value="1285" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="VideoGame_AllStars" type="b2602c69:ProjectViewProjectNode" />
+              <item name="VideoGame_AllStars" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="full.screen.before.presentation.mode" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.VideoGame_AllStars">
+    <configuration name="ExampleCode" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="VideoGame_AllStars" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ExampleCode.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="VideoGame_AllStars" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="VideoGame_AllStars" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/VideoGame_AllStars.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="auto_attack" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="VideoGame_AllStars" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/auto_attack.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="buttontest" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="VideoGame_AllStars" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/buttontest" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="test" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="VideoGame_AllStars" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.VideoGame_AllStars" />
+        <item itemvalue="Python.auto_attack" />
+        <item itemvalue="Python.test" />
+        <item itemvalue="Python.buttontest" />
+        <item itemvalue="Python.ExampleCode" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="01891f97-e48f-4cf5-a03e-58b936fe9a0d" name="Default Changelist" comment="" />
+      <created>1580610889816</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1580610889816</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="67" y="73" width="1720" height="1285" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49585062" visible="true" weight="0.19560048" />
+      <window_info id="Structure" order="1" sideWeight="0.5041494" side_tool="true" visible="true" weight="0.19560048" />
+      <window_info id="Favorites" order="2" sideWeight="0.5030581" side_tool="true" weight="0.20012166" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.3053746" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.16319445" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.1814236" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32893157" />
+      <window_info anchor="bottom" id="Version Control" order="7" weight="0.32893157" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.18596788" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Python Console" order="10" weight="0.227388" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+    <layout-to-restore>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.17695312" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32916668" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.19591837" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Python Console" order="10" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout-to-restore>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$USER_HOME$/OneDrive/Desktop/MTL-master/TestScripts/dut_info.py" />
+    <entry file="file://$PROJECT_DIR$/constants.py" />
+    <entry file="file://$USER_HOME$/.PyCharmCE2018.3/system/python_stubs/-852436710/pygame/constants.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="296">
+          <caret line="272" selection-start-line="272" selection-end-line="272" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../bookwork/learning/v2Problems/hangman.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3105">
+          <caret line="138" column="13" selection-start-line="138" selection-start-column="13" selection-end-line="138" selection-end-column="13" />
+          <folding>
+            <element signature="e#0#13#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/buttontest" />
+    <entry file="file://$PROJECT_DIR$/VideoGameAllStarsRecoded.py" />
+    <entry file="file://$PROJECT_DIR$/test.py" />
+    <entry file="file://$PROJECT_DIR$/ExampleCode.py" />
+    <entry file="file://$PROJECT_DIR$/auto_attack.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="517">
+          <caret line="98" column="40" lean-forward="true" selection-start-line="98" selection-start-column="40" selection-end-line="98" selection-end-column="40" />
+          <folding>
+            <element signature="e#60#75#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python37/Lib/site-packages/keyboard/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1134">
+          <caret line="425" selection-start-line="425" selection-end-line="425" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python37/Lib/codecs.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="541">
+          <caret line="332" selection-start-line="332" selection-end-line="332" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python37/Lib/random.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="322">
+          <caret line="221" selection-start-line="221" selection-end-line="221" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/VideoGame_AllStars.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="426">
+          <caret line="1211" column="92" lean-forward="true" selection-start-line="1211" selection-start-column="92" selection-end-line="1211" selection-end-column="92" />
+          <folding>
+            <element signature="e#256#288#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
